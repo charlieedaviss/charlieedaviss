@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @charlieedaviss
-- 👀 I’m interested in Python, Automation QA Testing
-- 🌱 I’m currently learning Python fundamentals, looking to learn more automation frameworks
-- 💞️ I’m looking to collaborate on any beginner level Python projects/ automation scripts
+- 👀 I’m interested in Java, Python, and Automation QA Testing
+- 🌱 I’m currently learning Java and Python fundamentals, looking to learn more automation frameworks
+- 💞️ I’m looking to collaborate on any beginner level Java and Python projects/ automation scripts
 - 📫 How to reach me charliee.daviss@gmail.com
 
 <!---
